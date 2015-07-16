@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\Youxu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\classes-319e73c66a78f1ed84a3a6759d716931c3b93551.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.17\f417d7f776d1ee5858fc04d9362aa45e9bedd26b\library-1.0.17.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f417d7f776d1ee5858fc04d9362aa45e9bedd26b">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\library-1.0.17-1f17f1f56b2766ac3b1512806abe229754f6d520.jar" />
+    </item>
+    <item
+        jar="D:\adt-bundle-windows-x86_64_20140101\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-68ac7a288775eb79095f472c35715a7fc07e72b3.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Youxu\app\build\intermediates\exploded-aar\Youxu\slidemenu\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="8e699b9d1d25a1bc2a2acd8af9692a3a360a83a4">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\classes-b19cce42d0e471f9dd49e0e444ce292dd27eded3.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Youxu\app\libs\GetuiSdk2.4.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="3a3e0bf969a49b89907d3c57bf9729684f5c0b33">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\GetuiSdk2.4.1.0-0af7e61465f2195645ca908c336e4d1ea71e4e9e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\gson-2.3.1-3d67bc6296728dce11d45e3fe02a4d0f0bf336e9.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Youxu\app\libs\GetuiExt-2.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="7825bfa9135d693e2046eab96fd94e724e0f9eda">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\GetuiExt-2.0.3-76f616637bfe7c77673863dd3537828f46b9e7a1.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Youxu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\classes-6517b462829f9c71d53959975f337dbaf32f7144.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Youxu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\workspace\Youxu\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-530502759843231c9cd7dce3c6d17931131fbac3.jar" />
+    </item>
+
+</items>
